@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project makes use of Auth0 as an authentication provider for handling public and private routes on the 
+client side.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
